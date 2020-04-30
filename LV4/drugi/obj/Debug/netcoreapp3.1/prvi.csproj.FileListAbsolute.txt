@@ -1,0 +1,13 @@
+C:\Users\ilija\source\repos\LV4\LV4\obj\Debug\netcoreapp3.1\prvi.csprojAssemblyReference.cache
+C:\Users\ilija\source\repos\LV4\LV4\obj\Debug\netcoreapp3.1\prvi.csproj.CoreCompileInputs.cache
+C:\Users\ilija\source\repos\LV4\LV4\obj\Debug\netcoreapp3.1\prvi.AssemblyInfoInputs.cache
+C:\Users\ilija\source\repos\LV4\LV4\obj\Debug\netcoreapp3.1\prvi.AssemblyInfo.cs
+C:\Users\ilija\source\repos\LV4\LV4\bin\Debug\netcoreapp3.1\prvi.exe
+C:\Users\ilija\source\repos\LV4\LV4\bin\Debug\netcoreapp3.1\prvi.deps.json
+C:\Users\ilija\source\repos\LV4\LV4\bin\Debug\netcoreapp3.1\prvi.runtimeconfig.json
+C:\Users\ilija\source\repos\LV4\LV4\bin\Debug\netcoreapp3.1\prvi.runtimeconfig.dev.json
+C:\Users\ilija\source\repos\LV4\LV4\bin\Debug\netcoreapp3.1\prvi.dll
+C:\Users\ilija\source\repos\LV4\LV4\bin\Debug\netcoreapp3.1\prvi.pdb
+C:\Users\ilija\source\repos\LV4\LV4\obj\Debug\netcoreapp3.1\prvi.dll
+C:\Users\ilija\source\repos\LV4\LV4\obj\Debug\netcoreapp3.1\prvi.pdb
+C:\Users\ilija\source\repos\LV4\LV4\obj\Debug\netcoreapp3.1\prvi.genruntimeconfig.cache
